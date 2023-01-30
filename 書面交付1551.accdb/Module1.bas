@@ -2,7 +2,7 @@ Attribute VB_Name = "Module1"
 Option Compare Database
 Sub Importtest()
 Dim d, s
-'test
+'testt
 's = "Path = ""C:\Users\OCN060605102\Desktop\作業フォルダ\書面交付\csv\bqrcsv\書面交付ALL20221026.csv"""
 'd = "Path = ""C:\Users\OCN060605102\Desktop\作業フォルダ\書面交付\csv\bqrcsv\書面交付ALL.csv"""
 
